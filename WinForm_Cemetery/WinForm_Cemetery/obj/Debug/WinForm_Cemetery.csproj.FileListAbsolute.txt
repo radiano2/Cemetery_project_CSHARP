@@ -1,0 +1,12 @@
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\bin\Debug\WinForm_Cemetery.exe.config
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\bin\Debug\WinForm_Cemetery.exe
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\bin\Debug\WinForm_Cemetery.pdb
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.csprojAssemblyReference.cache
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.Form1.resources
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.Properties.Resources.resources
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.csproj.GenerateResource.cache
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.csproj.CoreCompileInputs.cache
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.exe
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.pdb
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.Form2.resources
+C:\Users\radia\source\repos\WinForm_Cemetery\WinForm_Cemetery\obj\Debug\WinForm_Cemetery.Form3.resources
